@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FupreTT</string>
+    <string name="create_time_table">Create time table</string>
+    <string name="add_time_table">Add Time Table</string>
+    <string name="add_course_form">Add Course form</string>
+    <string name="level">Level</string>
+    <string name="semester">Semester</string>
+    <string name="department">Department</string>
+    <string name="import_txt">import</string>
+
+    <string name="text_select">Use department selection</string>
+    <string name="text_import">Import course form</string>
+    <string name="skip">skip</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+
+
+    <string-array name="department">
+        <item>Chemistry</item>
+        <item>Industrial Chemistry</item>
+        <item>Computer Science</item>
+        <item>Mathematics</item>
+        <item>Geology</item>
+        <item>Geophysics</item>
+        <item>Physics</item>
+        <item>Environmental Management &amp; Toxicology</item>
+    </string-array>
+
+    <string-array name="level">
+        <item>100 level</item>
+        <item>200 level</item>
+        <item>300 level</item>
+        <item>400 level</item>
+        <item>500 level</item>
+    </string-array>
+
+    <string-array name="semester">
+        <item>First semester</item>
+        <item>Second semester</item>
+    </string-array>
+</resources>

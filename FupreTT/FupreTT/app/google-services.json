@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585030550676",
+    "firebase_url": "https://fuprett-default-rtdb.firebaseio.com",
+    "project_id": "fuprett",
+    "storage_bucket": "fuprett.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585030550676:android:8beb6816d3bed89417a081",
+        "android_client_info": {
+          "package_name": "com.omolayoseun.fuprett"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585030550676-651q3g26dfk5h5scodacl133udoertnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmS7FAvxOIjXCwXFYzAM4n6RAcBUl93y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585030550676-651q3g26dfk5h5scodacl133udoertnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
